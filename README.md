@@ -3,16 +3,16 @@
 A collection of website cloning projects built using **HTML5 and CSS3**.  
 These projects were developed to practice frontend development, responsive layouts, CSS styling, and recreating real-world website interfaces.
 
-## 🚀 Projects
+## 🌐 Live Projects
 
-| Project | Technologies |
-|---------|--------------|
-| 🎵 Spotify Clone | HTML, CSS |
-| 🏢 Zoho Clone | HTML, CSS |
-| 🌐 cdnjs Clone | HTML, CSS |
-| 📦 npm Clone | HTML, CSS |
-| 🚕 Rapido Clone | HTML, CSS |
-| 🛍️ MagicPin Clone | HTML, CSS |
+| Project | Live Demo |
+|---------|-----------|
+| 🎵 Spotify Clone | [View Live](https://rapido-liart.vercel.app/) |
+| 🏢 Zoho Clone | [View Live](YOUR_ZOHO_URL) |
+| 📦 npm Clone | [View Live](YOUR_NPM_URL) |
+| 🚕 Rapido Clone | [View Live](YOUR_RAPIDO_URL) |
+| 🌐 cdnjs Clone | [View Live](YOUR_CDNJS_URL) |
+| 🛍️ MagicPin Clone | [View Live](YOUR_MAGICPIN_URL) |
 
 ## 🛠️ Technologies Used
 
