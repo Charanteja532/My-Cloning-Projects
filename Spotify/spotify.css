@@ -1,0 +1,309 @@
+*{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+font-weight: 500;
+}
+nav{
+    /* border: 2px solid black; */
+    width: 100%;
+    height: 69px;
+    display: flex;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+
+
+
+}
+nav div{
+    /* border: 2px solid black; */
+   width: 25%;
+    
+}
+nav div+div{
+    width: 45%;
+}
+nav ol{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  font-size: 16px;
+  font-weight: 100;
+
+}
+nav svg{
+    height: 20px;
+    fill: white;
+}
+nav ol>li:hover{
+    cursor: pointer;
+    color: chartreuse;
+
+}
+main{
+    /* border: 2px solid black; */
+    height: 530px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+        background: url("./Assests/desktop-hero.jpeg") center 40% / 100% no-repeat;
+
+}
+main div{
+    /* border: 2px solid green; */
+    height: 350px;
+    width: 49%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+
+
+
+}
+main h1{
+    font-size: 62px;
+    letter-spacing: -3;
+    color: white;
+
+}
+main button{
+    border-radius: 25px;
+    background-color: white;
+    height: 50px;
+    width: 180px;
+    font-size: 18px;
+    font-weight: bold;
+    word-spacing: -2px;
+    border: none;
+
+}
+#sec1{
+    /* border: 2px solid black; */
+    height: 590px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+#sec1 h1{
+    font-size: 40px;
+    text-align: center;
+}
+#sec1 aside{
+    /* border: 2px solid red; */
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sec1 div{
+    /* border: 2px solid; */
+    height: 320px;
+    width: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+
+}
+#sec1 img{
+    height: 150px;
+
+}
+#sec1 p{
+    width: 80%;
+    line-height: 25px;
+
+}
+#sec2{
+    /* border: 2px solid red; */
+    height: 457px;
+    background-color: rgb(30, 215, 96);;
+    text-align: center;
+    font-size: 27px;
+    word-spacing: -3px;
+    letter-spacing: -2px;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    
+
+}
+#sec2 img{
+    height: 300px;
+}
+#sec3{
+    height: 490px;
+
+}
+#sec3 h1{
+    text-align: center;
+    font-size: 40px;
+
+}
+#sec3 aside{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+#sec3 div{
+    width: 80%;
+
+}
+#sec3 summary{
+    height: 70px;
+    padding: 22px;
+    list-style: none;
+    font-size: 18px;
+    font-weight: 600;
+    word-spacing: -1px;
+    border-bottom: 1px solid lightgray;
+}
+#sec3 summary:hover{
+    background-color: #f2f1f1;
+    text-decoration: underline;
+    cursor: pointer;
+}#sec3 p{
+    padding-left: 22px;
+    line-height: 23px;
+
+}
+#sec3 font{
+    color: rgb(3,118,3);
+    font-weight: 600;
+}
+#sec3 span{
+    float: right;
+}
+#sec4{
+    height: 420px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+        background: url("./Assests/backgimg4") center 50% / 100% no-repeat;
+}
+#sec4 div{
+    height: 220px;
+    width: 49%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    color: white;
+
+}
+/* #d2 li{
+    padding-bottom: 10px;
+}
+#d3 li{
+    padding-bottom: 10px;
+}
+#d4 li{
+    padding-bottom: 10px;
+}
+#d5 li{
+    padding-bottom: 10px;
+} */
+
+#sec4 h1{
+    font-size: 62px;
+    letter-spacing: -3;
+    color: white;
+
+}
+#sec4 button{
+    border-radius: 25px;
+    background-color: white;
+    height: 50px;
+    width: 180px;
+    font-size: 18px;
+    font-weight: bold;
+    word-spacing: -2px;
+    border: none;
+
+}
+footer{
+    background-color: black;
+    border: 2px solid black;
+    height: 550px;
+    display: flex;
+    justify-content:center;
+    align-items:flex-start;
+   gap: 60px;
+   color: white;
+
+
+
+
+
+}
+footer div{
+     border: 2px solid black; */
+     width: 195px;
+    height: 290px;
+    font-size: 20px;
+
+} 
+.d17:hover{
+    color: rgb(3,118,3);
+
+ }
+ .d5:hover{
+    color: rgb(3,118,3);
+
+}
+.d9:hover {
+     color: rgb(3,118,3);
+
+}
+.d8:hover {
+    color:rgb(3,118,3);
+}
+footer img{
+    width: 70px;
+    height: 70px;
+    color: white;
+    background-color: white;
+}
+
+footer p{
+    color: white;
+} 
+
+
+ footer{
+    background:black;
+    color:white;
+    padding:80px 120px;
+}
+
+.footer-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+}
+
+.footer-bottom{
+    background-color: black;
+    display:flex;
+    justify-content:space-between;
+    /* margin-top:-20px; */
+    color: white;
+    align-items: center;
+    
+}
+
