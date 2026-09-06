@@ -7,10 +7,10 @@ These projects were developed to practice frontend development, responsive layou
 
 | Project | Live Demo |
 |---------|-----------|
-| 🎵 Spotify Clone | [View Live](https://rapido-liart.vercel.app/) |
+| 🎵 Spotify Clone | [View Live]() |
 | 🏢 Zoho Clone | [View Live](YOUR_ZOHO_URL) |
 | 📦 npm Clone | [View Live](YOUR_NPM_URL) |
-| 🚕 Rapido Clone | [View Live](YOUR_RAPIDO_URL) |
+| 🚕 Rapido Clone | [View Live](https://rapido-liart.vercel.app/) |
 | 🌐 cdnjs Clone | [View Live](YOUR_CDNJS_URL) |
 | 🛍️ MagicPin Clone | [View Live](YOUR_MAGICPIN_URL) |
 
